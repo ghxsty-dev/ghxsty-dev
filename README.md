@@ -17,11 +17,7 @@
 
 ## 🚀 Hakkımda
 
-- 💻 Electron ile masaüstü uygulamaları geliştiriyorum
-- ☕ Java ile projeler yapıyorum
-- 🌱 Sürekli yeni teknolojiler öğreniyorum
-- 🎮 Oyun ve teknoloji seviyorum
-- ✨ Modern ve kullanışlı projeler üretmeyi seviyorum
+Selam, ben Kıvanç. 16 yaşındayım ve kendi ilgilerim ve keyfime göre uygulamalar geliştiriyorum. Lise öğrencisiyim ve özellikle de uğraşım olan müzikle oldukça ilgiliyim.
 
 ---
 
@@ -63,8 +59,8 @@
 
 ---
 
-## ⚡ Current Status
+## ⚡ Bana Ulaşın:
 
 ```txt
-💻 Building desktop apps
-🎧 Listening to music
+Discord: the.ghxsty
+Instagram: kivanctsirin
