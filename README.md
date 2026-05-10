@@ -2,9 +2,14 @@
 
 <div align="center">
 
-### 💻 Software Developer • ⚡ Electron • ☕ Java
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Electron+Developer;Java+Enthusiast;Building+cool+desktop+apps" />
+<img src="https://cdn.discordapp.com/attachments/1495430127817850970/1495499306550034472/GLITCHLOGO.png?ex=6a022743&is=6a00d5c3&hm=5015ad6480d81d3003c2ff8d58942b905ab978de0b4f86444225194bf913032a&" width="120" />
+
+# GLITCH Productions
+
+</div>
+
 
 </div>
 
