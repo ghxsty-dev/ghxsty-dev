@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1495430127817850970/1495499306550034472/GLITCHLOGO.png?ex=6a022743&is=6a00d5c3&hm=5015ad6480d81d3003c2ff8d58942b905ab978de0b4f86444225194bf913032a&" width="120" />
+<img src="https://cdn.discordapp.com/attachments/1495430127817850970/1495499306063630456/GLITCHLOGO_1000_x_200_piksel.png?ex=6a02d003&is=6a017e83&hm=b275eeef0bfa4950cc60c8059c1898fe4ab6f0c13240b454b7cb7c0094a80db3&" width="120" />
 
-# GLITCH Productions
+
 
 ---
 
