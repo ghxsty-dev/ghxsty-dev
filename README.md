@@ -20,19 +20,6 @@ Hi, I'm Kıvanç. I'm 16 years old and i develop apps based on my own interests 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-
----
-
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghxsty-dev&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghxsty-dev&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 ## 🔥 Streak
