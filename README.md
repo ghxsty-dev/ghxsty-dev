@@ -12,7 +12,9 @@
 
 ## 🚀 Hakkımda
 
-Selam, ben Kıvanç. 16 yaşındayım ve kendi ilgilerim ve keyfime göre uygulamalar geliştiriyorum. Lise öğrencisiyim ve özellikle de uğraşım olan müzikle oldukça ilgiliyim.
+---
+
+Hi, I'm Kıvanç. I'm 16 years old and i develop apps based on my own interests and for fun. I'm a high school student and I'm also really into music, which is a big hobby of mine.
 ---
 <div align="center">
 
