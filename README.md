@@ -8,21 +8,12 @@
 
 # GLITCH Productions
 
-</div>
-
-
-</div>
-
 ---
 
 ## 🚀 Hakkımda
 
 Selam, ben Kıvanç. 16 yaşındayım ve kendi ilgilerim ve keyfime göre uygulamalar geliştiriyorum. Lise öğrencisiyim ve özellikle de uğraşım olan müzikle oldukça ilgiliyim.
-
 ---
-
-## 🛠️ Teknolojiler
-
 <div align="center">
 
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
