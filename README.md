@@ -9,9 +9,10 @@
 
 ---
 
-Hi, I'm Kıvanç. I'm 16 years old and i develop apps based on my own interests and for fun. I'm a high school student and I'm also really into music, which is a big hobby of mine.
+## Hi, I'm Kıvanç. I'm 16 years old and i develop apps based on my own interests and for fun. I'm a high school student and I'm also really into music, which is a big hobby of mine.
 
-Develop [GLITCH Music](https://github.com/ghxsty-dev/glitch-music)
+### Develop [GLITCH Music](https://github.com/ghxsty-dev/glitch-music)
+
 ---
 
 <div align="center">
