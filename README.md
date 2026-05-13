@@ -8,8 +8,12 @@
 <img src="https://cdn.discordapp.com/attachments/1495430127817850970/1495499306063630456/GLITCHLOGO_1000_x_200_piksel.png?ex=6a02d003&is=6a017e83&hm=b275eeef0bfa4950cc60c8059c1898fe4ab6f0c13240b454b7cb7c0094a80db3&" width="1200" />
 
 ---
+
 Hi, I'm Kıvanç. I'm 16 years old and i develop apps based on my own interests and for fun. I'm a high school student and I'm also really into music, which is a big hobby of mine.
+
+Develop [GLITCH Music](https://github.com/ghxsty-dev/glitch-music)
 ---
+
 <div align="center">
 
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
