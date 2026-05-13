@@ -1,4 +1,4 @@
-# Hello! I'm Kıvanç! <img width="498" height="332" alt="resim" src="https://github.com/user-attachments/assets/cf4a0e23-db8f-4c81-add9-212a13287123" />
+# Hello! I'm Kıvanç!
 
 
 <div align="center">
@@ -22,7 +22,7 @@ Hi, I'm Kıvanç. I'm 16 years old and i develop apps based on my own interests 
 
 </div>
 
-## 🔥 Streak
+## Streak
 
 <div align="center">
 
@@ -32,7 +32,7 @@ Hi, I'm Kıvanç. I'm 16 years old and i develop apps based on my own interests 
 
 ---
 
-## ⚡ Bana Ulaşın:
+## Contact Me:
 
 ```txt
 Discord: the.ghxsty
