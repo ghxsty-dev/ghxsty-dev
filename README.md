@@ -1,4 +1,5 @@
-# Hey 👋 Ben Kıvanç
+# Hello! I'm Kıvanç! <img width="498" height="332" alt="resim" src="https://github.com/user-attachments/assets/cf4a0e23-db8f-4c81-add9-212a13287123" />
+
 
 <div align="center">
 
