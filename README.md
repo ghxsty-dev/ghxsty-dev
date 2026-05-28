@@ -1,6 +1,4 @@
 # Hello! I'm Kıvanç!
-
-
 ## doing somethings
 
 ---
